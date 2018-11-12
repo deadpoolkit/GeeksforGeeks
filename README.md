@@ -9,3 +9,5 @@ This summer 2018, I worked as a <strong>Technical Scripter Intern</strong> under
 5.  <a href="https://www.geeksforgeeks.org/barnsley-fern-in-python/">Barnsley Fern in Python</a>
 6.  <a href="https://www.geeksforgeeks.org/python-sierpinski-carpet/">Python | Sierpinski Carpet</a>
 7.  <a href="https://www.geeksforgeeks.org/python-matplotlib-pyplot-ticks/">Python | Matplotlib.pyplot ticks</a>
+
+Click here for <a href="https://www.geeksforgeeks.org/wp-content/uploads/Pulkit-Singh.jpg">Certificate</a>.
